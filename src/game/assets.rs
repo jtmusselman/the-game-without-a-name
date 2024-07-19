@@ -95,7 +95,7 @@ impl FromWorld for HandleMap<SoundtrackKey> {
             ),
             (
                 SoundtrackKey::Gameplay,
-                asset_server.load("audio/soundtracks/Fluffing A Duck.ogg"),
+                asset_server.load("audio/soundtracks/Dungeon_Ambience_Dark_Loop.ogg"),
             ),
         ]
         .into()
